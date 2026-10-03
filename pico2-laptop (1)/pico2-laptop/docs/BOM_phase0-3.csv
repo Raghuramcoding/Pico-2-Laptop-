@@ -1,0 +1,13 @@
+part,qty,phase,notes
+Raspberry Pi Pico 2 with headers,1,0,RP2350 board
+Micro-USB data cable,1,0,
+3.3V USB-serial adapter,1,0,CP2102/FT232/CH340 at 3.3V logic
+Breadboard 830 points,1,0,
+Jumper wires M-M and M-F,1,0,pack
+ILI9341 2.4-2.8in SPI TFT 320x240,1,2,no touch needed
+microSD socket breakout (3.3V safe),1,2,
+microSD card <=32GB,1,2,spare card
+Tactile or keyboard switches,63,2,start with 5
+1N4148 diode,70,2,one per key
+Perfboard and thin wire,1,2,matrix wiring
+Keycaps,63,2,optional
