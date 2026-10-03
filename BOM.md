@@ -13,7 +13,6 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Raspberry Pi Pico 2 with headers](https://www.pishop.ca/product/raspberry-pi-pico-2-with-header/) | RP2350 board | 1 | $8.95 | $8.95 | [PIshop.ca](https://www.pishop.ca/product/raspberry-pi-pico-2-with-header/) |
-| Micro-USB data cable | — | 1 | $0.00 | $0.00 | — |
 | 3.3V USB-serial adapter | CP2102/FT232/CH340 at 3.3V logic | 1 | $0.00 | $0.00 | — |
 | Breadboard 830 points | — | 1 | $0.00 | $0.00 | — |
 | Jumper wires M-M and M-F | pack | 1 | $0.00 | $0.00 | — |
