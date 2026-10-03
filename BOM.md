@@ -22,7 +22,6 @@
 | Tactile or keyboard switches | start with 5 | 63 | $0.00 | $0.00 | — |
 | 1N4148 diode | one per key | 70 | $0.00 | $0.00 | — |
 | Perfboard and thin wire | matrix wiring | 1 | $0.00 | $0.00 | — |
-| Keycaps | optional | 63 | $0.00 | $0.00 | — |
 | [Jumper wires M-F](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1954/6827087) | Booting up the computer help | 1 | $2.86 | $2.86 | [Digikey](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1954/6827087) |
 | **Parts subtotal** | — | — | — | **$29.07** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
